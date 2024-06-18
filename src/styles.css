@@ -1,0 +1,16 @@
+    .btn {
+        background-color: #1f883d;
+     /* the rest of the styles */
+    }
+
+  .input {
+    color: #cf2222;
+    font-size: 0.9rem;
+    background-color: transparent;
+    width: 100%;
+    box-sizing: border-box;
+    padding-inline: 0.5em;
+    padding-block: 0.7em;
+    border: none;
+    border-bottom: var(--border-height) solid var(--border-before-color);
+   }
